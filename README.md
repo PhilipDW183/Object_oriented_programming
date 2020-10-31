@@ -14,3 +14,17 @@ Author: Philip Wilkinson
 Contact: philip.wikinson.19@ucl.ac.uk
 
 Outline:
+
+```shell
+
+├── DSS interview: Object-Oriented Programming
+│   ├── README.md
+│   ├── problem.ipynb
+│   ├── solution.ipynb
+    └── workshop.ipynb
+        ├── Defining a class
+        ├── Adding attributes
+        ├── Adding methods
+        └── Class inheritance
+
+```
