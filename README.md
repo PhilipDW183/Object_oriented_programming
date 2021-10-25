@@ -1,19 +1,17 @@
-# DSS_interview
+# PY04 - Introduction to Python Programming
 
 ## Object-Oriented Programing introduction
 
-The workshop ipynb presents a 1 hour long workshop that will act as an introduction
-to the subject of Object-Oriented Programming. This will cover, creating Classes,
-assigning attributes, creating methods and class inheritence. Further subjects are
-also presented at the end.
+In this workshop we will set up you up with a bsic understanding of object oiented programming including **creating classes**, **adding attributes**, **adding attributes** and **inheritance**.
 
-Prerequisites include:
+**Author** Philip Wilkinson, Head of Science (201,22) UCL Data Science Society <br/>
+**Contact** philip.wilkinson.19@ucl.ac.uk <br/>
+
+## Prerequisites include:
 Anaconda
+Git 
 
-Author: Philip Wilkinson
-Contact: philip.wikinson.19@ucl.ac.uk
-
-Outline:
+Structure:
 
 ```shell
 
